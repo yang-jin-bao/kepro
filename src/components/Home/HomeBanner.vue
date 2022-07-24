@@ -18,7 +18,6 @@
 <script>
 export default {
   name: "HomeBanner",
-  components: {},
   data() {
     return {
       swiperOptions: {

@@ -20,18 +20,5 @@
             HomeMenu,
             HomeBlog
         },
-        data() {
-            return {}
-        },
-        //计算属性
-        computed: {},
-        //监听
-        watch: {},
-        mounted() {},
-        //方法
-        methods: {}
     }
 </script>
-
-<style lang="scss" scoped>
-</style>
